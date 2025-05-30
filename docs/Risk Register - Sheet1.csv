@@ -1,0 +1,4 @@
+Risk ID,Risk Description,Impact,Likelihood,Risk Rating,Framework,Mitgation
+R1,Phone sync exposes PII to future renters,High,Likely,High,NIST CDF PR.DS-1,"User training, enforce policy"
+R2,GPS data used to track personal movement,Medium,Possible,Medium,GDPR Article 5,"Auto-delete checklist, limit sync"
+R3,Corporate device sync violates data policy,High,Likely,High,ISO 27001 A.9.2,Block infotainment sync on corp phones
