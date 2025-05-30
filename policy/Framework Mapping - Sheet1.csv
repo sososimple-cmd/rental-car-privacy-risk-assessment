@@ -1,0 +1,6 @@
+Risk,Framework,Control/Clause
+PII retained in infotainment systems,NIST CSF,PR.DS-1 – Data-at-rest is protected
+GPS tracking persists after car return,GDPR ,Article 5 – Data minimization
+User did not consent to data storage,ISO/IEC 27001,Annex A.18.1.4 – Privacy and protection of PII
+Corporate phone syncing to public system, ISO/SAE 21434,Clause 16 – Post-development cybersecurity activities
+No process for secure deletion of data,UN R155 (Vehicle Cyber Reg CSMS Requirement 7.3.3 – Threat monitoring and response,CSMS Requirement 7.3.3 – Threat monitoring and response
